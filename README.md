@@ -26,7 +26,7 @@ REST API yang dibuat mengunakan node js dan memiliki modul Registrasi, Login, Ce
 
     npm install
 
-    node index.js
+    npm start
 
 # Resource
 
