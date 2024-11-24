@@ -34,4 +34,4 @@ REST API yang dibuat mengunakan node js dan memiliki modul Registrasi, Login, Ce
 
 # Link Demo
 
-    https://react-movie-test.herokuapp.com/
+    http://sims-ppob-api-test.ptkei.co.id/
